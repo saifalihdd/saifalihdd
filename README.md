@@ -16,7 +16,7 @@
 
 ---
 
-## 🎰 ABOUT ME — The Dev Who Keeps Hitting Jackpot
+## 🎰 ABOUT ME
 
 <img align="right" src="https://i.pinimg.com/originals/c1/3f/62/c13f62f4c72aaff1a03b2a6f8cda01e6.gif" width="200" alt="Hakari"/>
 
@@ -43,11 +43,11 @@ const hakariDev = {
 
 ---
 
-## ⚡ CURSED TECHNIQUE — Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-### 🔴 Domain: Frontend
+### 🔴 Domain:Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=FFD700)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFD700)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFD700)
@@ -68,7 +68,7 @@ const hakariDev = {
 
 ---
 
-## 🎲 STATS — Rolling the Dice
+## 🎲 STATS
 
 <div align="center">
 
@@ -82,7 +82,7 @@ const hakariDev = {
 
 ---
 
-## 🏆 ACTIVITY GRAPH — Cursed Energy Output
+## 🏆 ACTIVITY GRAPH
 
 <div align="center">
 
@@ -92,27 +92,7 @@ const hakariDev = {
 
 ---
 
-## 🎰 JACKPOT COUNTER
-
-<div align="center">
-
-```
-🎰 [ ♠️  JACKPOT  ♣️ ] 🎰
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Projects Shipped  : ∞ (and counting)
-  Bugs Crushed      : 999+
-  Coffee Consumed   : [REDACTED]
-  Cursed Energy     : MAXIMUM
-  Jackpots Hit      : ALWAYS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  STATUS: LUCK ROOM ACTIVE 🔥
-```
-
-</div>
-
----
-
-## 🃏 CONNECT — Find Me Before Idle Death Gamble Ends
+## 🃏 CONNECT
 
 <div align="center">
 
