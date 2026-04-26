@@ -47,7 +47,7 @@ const hakariDev = {
 
 <div align="center">
 
-### 🔴 Domain:Frontend
+### 🔴 Domain: Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=FFD700)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFD700)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFD700)
