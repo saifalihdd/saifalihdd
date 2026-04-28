@@ -4,9 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=100&lines=JACKPOT!;LUCK+ROOM+ACTIVATED;GIGA+CHAD+DEVELOPER" alt="Typing SVG" />
 
-<img src="https://i.pinimg.com/originals/c1/3f/62/c13f62f4c72aaff1a03b2a6f8cda01e6.gif" width="300" alt="Hakari Kinji GIF"/>
+<br/>
 
-> *"Jackpot... finally hit the jackpot."* — **Hakari Kinji**
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNkN2JtcWdhcXpvbG9tZWR5MXNid2s0ODY5djR6Zng1ejJiaTlpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G8OtTWiQSfPE2KtUaQ/giphy.gif" width="600" alt="Hakari Kinji GIF"/>
+
+*"Jackpot... finally hit the jackpot."* — **Hakari Kinji**
 
 ---
 
