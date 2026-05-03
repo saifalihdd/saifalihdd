@@ -23,7 +23,7 @@
 <img align="right" src="https://i.pinimg.com/originals/c1/3f/62/c13f62f4c72aaff1a03b2a6f8cda01e6.gif" width="200" alt="Hakari"/>
 
 ```javascript
-const hakariDev = {
+const luckyDev = {
   alias       : "Saif Ali",
   cursed_tech : "Domain Expansion: Full-Stack Development",
   location    : "Indonesia 🇮🇩",
