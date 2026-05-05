@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <!-- HAKARI KINJI THEME - JACKPOT! -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=100&lines=JACKPOT!;LUCK+ROOM+ACTIVATED;VERY+LUCKY+DEVELOPER" alt="Typing SVG" />
