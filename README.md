@@ -74,11 +74,13 @@ const luckyDev = {
 
 <div align="center">
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=saifalihdd&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0d0d0d&border_color=FFD700&border_radius=10" alt="GitHub Stats" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saifalihdd&theme=dark&background=0d0d0d&border=FFD700&stroke=FFD700&ring=FFD700&fire=FF4500&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=AAAAAA&dates=888888" alt="Streak Stats" width="49%"/>
+  
+<img src="https://streak-stats.demolab.com/?user=saifalihdd&theme=dark&background=0d0d0d&border=FFD700&stroke=FFD700&ring=FFD700&fire=FF4500&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=AAAAAA&dates=888888" alt="Streak Stats" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifalihdd&layout=compact&theme=dark&title_color=FFD700&text_color=FFFFFF&bg_color=0d0d0d&border_color=FFD700&border_radius=10" alt="Top Languages" width="49%"/>
+</div>
 
 </div>
 
